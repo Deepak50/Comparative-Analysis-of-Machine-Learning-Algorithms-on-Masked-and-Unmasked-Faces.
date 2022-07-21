@@ -1,0 +1,2 @@
+# Comparative-Analysis-of-Machine-Learning-Algorithms-on-Masked-and-Unmasked-Faces.
+The goal of this project was to analyze how classification algorithms classified human faces when they are unmasked and masked. Scraped unmasked face images of 50 (50 samples for each person) people form the internet and generated synthetic masked faces. Algorithms used: SVM, KNN, Naive-Bayes, Random Forest, Decision Tree
